@@ -5,7 +5,22 @@ I am currently majoring in Cybersecurity with a security+ certification. I enjoy
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
-!Access Control !Cryptography !Cyber Forensics !Data Security !Disaster Recovery Planning !Firewall Configuration !Information Security Management !Malware Identification !Mobile Device Security !Network Security !Security Awareness !Security Configuration !Security Management !Security Policies !Threat Detection !Threat Management
+Access Control 
+Cryptography 
+Cyber Forensics 
+Data Security 
+Disaster Recovery Planning 
+Firewall Configuration 
+Information Security Management 
+Malware Identification 
+Mobile Device Security 
+Network Security 
+Security Awareness 
+Security Configuration 
+Security Management 
+Security Policies 
+Threat Detection 
+Threat Management
 
 🎉 Interests
 ## 🎉 Interests
