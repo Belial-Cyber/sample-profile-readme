@@ -2,21 +2,21 @@
 ##  About Me
 I am currently majoring in Cybersecurity with a security+ certification. I enjoy Video Games and Tabletop wargames.
 ## ⚒️ Skills
-Access Control
-Cryptography 
-Cyber Forensics 
-Data Security 
-Disaster Recovery Planning 
-Firewall Configuration 
-Information Security Management 
-Malware Identification 
-Mobile Device Security 
-Network Security 
-Security Awareness 
-Security Configuration 
-Security Management 
-Security Policies 
-Threat Detection 
+Access Control,
+Cryptography,
+Cyber Forensics, 
+Data Security,
+Disaster Recovery Planning, 
+Firewall Configuration,
+Information Security Management,
+Malware Identification,
+Mobile Device Security,
+Network Security,
+Security Awareness,
+Security Configuration,
+Security Management,
+Security Policies,
+Threat Detection,
 Threat Management
 
 🎉 Interests
